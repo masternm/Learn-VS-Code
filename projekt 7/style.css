@@ -1,0 +1,55 @@
+.container {
+    display: flex;
+}
+
+a {
+    justify-content: flex-end;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box {
+    width: 200px;
+}
+
+.flexbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    display: flex;
+}
+
+.flex-2 {
+    flex-grow: 2;
+}
+
+.container-menu .menu-item {
+    display: inline;
+}
+
+.container-menu {
+    justify-content: flex-end;
+    text-transform: uppercase;
+}
+
+.jumbotron {
+    text-align: center;
+}

@@ -1,0 +1,32 @@
+    .btn-primary {
+        width: 10%;
+        height: 30px;
+        margin-left: 45%;
+    }
+
+    .table {
+        margin: 10px;
+    }
+
+    .container-menu .menu-item {
+        display: inline;
+    }
+
+    .container-menu {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .panel {
+        padding: 10px;
+        background-color: #1dcaff;
+        text-align: center;
+    }
+
+    form {
+        display: flex;
+    }
+
+    .submit {
+        height: 100%;
+    }

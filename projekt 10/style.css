@@ -1,0 +1,44 @@
+.btn-primary {
+    width: 10%;
+    height: 30px;
+    margin-left: 45%;
+}
+
+.table {
+    margin: 10px;
+}
+
+.container-menu .menu-item {
+    display: inline;
+}
+
+.container-menu {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.panel {
+    padding: 10px;
+    background-color: #1dcaff;
+    text-align: center;
+}
+
+.example-1 {
+    background-image: url(http://i.imgur.com/AGEgF5B.jpg);
+}
+
+.example-2 {
+    background-image: url(http://i.imgur.com/7Ff7rDB.jpg);
+}
+
+.example-3 {
+    background-image: url(http://i.imgur.com/KUt6tGb.jpg);
+}
+
+.example-4 {
+    background-image: url(http://i.imgur.com/AGEgF5B.jpg);
+}
+
+.tab-pane {
+    padding: 10px;
+}
